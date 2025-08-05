@@ -1,8 +1,8 @@
 ````markdown
-# OCR LLama 🦙 — Granite 3-Vision PDF OCR
+# OCR LLama 🦙 — Llama3.2-Vision PDF OCR
 
 OCR LLama é um micro-projeto Python que demonstra como extrair texto de
-PDFs usando **Granite 3.2-Vision** (via
+PDFs usando **Llama3.2-Vision** (via
 [ollama-ocr](https://pypi.org/project/ollama-ocr/)) hospedado em uma
 instância **Ollama** local ou remota.
 
